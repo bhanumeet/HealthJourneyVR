@@ -1,0 +1,88 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Auto-generated VS/VSCode/JetBrains Rider files
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.suo
+*.tmp
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.idea/
+*.sln.dotsettings
+
+# Unity-specific files
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+*.bak
+*.swp
+*.log
+*.lock
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.appledouble
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+*.diff
+*.orig
+*.rej
+
+# Ignore build artifacts for different platforms
+/Builds/
+*.apk
+*.aab
+*.app
+*.ipa
+*.exe
+
+# Unity Plugin-specific exclusions
+# Exclude specific plugins (if any) and their generated files, e.g., Oculus
+/Plugins/*/bin/
+Assets/Oculus/
+Assets/SteamVR/
+
+# TextMesh Pro (if used, comment if unused)
+Assets/TextMesh Pro/
+
+# Logs
+*.log
+Logs/
+
+# Unity cloud build
+/[Uu]ser[Ss]ettings/
+
+# Temporary files generated during runtime
+*.log
+*.stacktrace
+
+# Packages directory (optional, if using Package Manager)
+# /Packages/
+
+# Ignore files related to Unity Collab (if using Git for version control)
+/[Uu]ser[Ss]ettings/[Cc]ollab/
+
+# Ignore files for Unity cache server
+UnityCache/
+
+# Ignore .env or other environment config files
+.env
+.env.*
