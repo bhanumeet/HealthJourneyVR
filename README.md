@@ -18,10 +18,7 @@
 
 ### Installation
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/username/HealthJourneyVR.git
-   ```
+1. Clone this repository
 2. Open the project in Unity.
 3. Connect your VR headset to your computer.
 4. Build and run the project on your VR headset.
